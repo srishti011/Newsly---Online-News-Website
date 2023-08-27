@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Italian fugitive caught in Corfu thanks to photo celebrating football win",
+      "description": "Vincenzo La Porta has been on the run for 11 years but was tracked down to Corfu by police.",
+      "url": "http://www.bbc.co.uk/news/world-europe-66416101",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/312A/production/_130668521_gettyimages-1487573011.jpg",
+      "publishedAt": "2023-08-06T01:22:16.6573138Z",
+      "content": "One of Italy's most dangerous fugitives has been caught in Corfu after a photo of him cheering on his football team gave away his whereabouts.\r\nVincenzo La Porta, 60, is thought to have close ties to… [+1779 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Rich Cimini, Jake Trotter",
+      "title": "DeMarcus Ware's emotional speech highlights NFL HOF induction - ESPN",
+      "description": "DeMarcus Ware, Joe Thomas, Zach Thomas, Darrelle Revis, Ronde Barber, Don Coryell, Joe Klecko, Chuck Howley and Ken Riley were inducted into the 2023 Pro Football Hall of Fame on Saturday.",
+      "url": "https://www.espn.com/nfl/story/_/id/38140116/demarcus-ware-emotion-speech-highlights-nfl-hof-induction",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0805%2Fr1206738_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-08-05T20:12:00Z",
+      "content": "CANTON, Ohio -- DeMarcus Ware's football journey from small-college star to Pro Football Hall of Famer took a fateful turn in the early 2000s, when he made a life-altering decision with a knife in hi… [+6106 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Natasha Everitt",
+      "title": "Wrexham given reality check, QPR in danger and Barnsley ones to watch – Three things we learned from the E...",
+      "description": "The English Football League was back with a bang this weekend, and there was plenty to learn from the opening fixtures. Southampton and Sheffield Wednesday raised the curtain on the 2023/24 Champio…",
+      "url": "https://talksport.com/football/efl/1523082/wrexham-mk-dons-qpr-barnsley-efl-what-we-learnt/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/08/PM-TALKSPORT-What-we-learned.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-08-05T17:37:38Z",
+      "content": "The English Football League was back with a bang this weekend, and there was plenty to learn from the opening fixtures.\r\nSouthampton and Sheffield Wednesday raised the curtain on the 2023/24 Champion… [+3256 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Bill Connelly",
+      "title": "College football 'Ifs List': How contenders can come together - ESPN",
+      "description": "The fewer things that have to go right to win a title, the better a team's chances of taking the crown. Here's what has to fall each contender's way.",
+      "url": "https://www.espn.com/college-football/insider/story/_/id/38115407/connelly-college-football-ifs-list-contenders-georgia-alabama-ohio-state-michigan-lsu",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0801%2Fr1204970_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-08-03T11:00:00Z",
+      "content": "We always think we know what's coming at this point in the offseason. We know who's going to be the preseason No. 1 (in this case, two-time defending national champion Georgia), and we know which blu… [+33026 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
